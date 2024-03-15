@@ -1,2 +1,2 @@
 # PETANDSHELTER
-Untuk tugas pemrograman dasar semester 4
+Untuk tugas pemrograman WEBSITE  semester 4
